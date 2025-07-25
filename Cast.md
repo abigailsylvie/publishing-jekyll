@@ -1,8 +1,10 @@
+<h1 style ="color:red; font-size:5em"> Cast </h1>
+
 [Home](index.md) | [Collectibles](Collectibles.md)
 
 <img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" style ="width:300px;">
 
-# Cast
+
  
 The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
 
