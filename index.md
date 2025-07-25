@@ -1,6 +1,6 @@
 # Stargazers
 
-[Home](index.md) | [Cast](cast.md) | [Collectibles](collectibles.md)
+[Home](index.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 
 
