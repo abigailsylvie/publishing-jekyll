@@ -9,5 +9,5 @@ We have the largest inventory of fan favorite items on the web. And if we don't 
 
 <video src="images/video.mp4" controls></video>
 
-{% include disc.html %}
+{% _includes disc.html %}
 
