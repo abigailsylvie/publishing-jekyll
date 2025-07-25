@@ -2,9 +2,11 @@
 
 ---
 
-$header-bg-color: :red;
+
 
 @import "{{ site.theme }}";
+
+$header-bg-color: : red;
 
 .main-content h1 {
 
